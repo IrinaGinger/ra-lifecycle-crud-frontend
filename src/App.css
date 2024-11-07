@@ -1,0 +1,18 @@
+.App-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  max-width: 1280px;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+.notedesk-title {
+  margin-bottom: 50px;
+}
+
+.notes-container {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+}
